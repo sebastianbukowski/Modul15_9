@@ -54,7 +54,7 @@ var App = function (_React$Component) {
         React.createElement(
           'header',
           null,
-          React.createElement('img', { src: "/images/GitHub_Mark.png", className: 'logo' }),
+          React.createElement('img', { src: "./images/GitHub_Mark.png", className: 'logo' }),
           React.createElement(
             'h1',
             null,
