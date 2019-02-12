@@ -24,7 +24,7 @@
       return (
         <div>
           <header>
-            <img src={"/images/GitHub_Mark.png"} className={'logo'} />
+            <img src={"./images/GitHub_Mark.png"} className={'logo'} />
             <h1>GitHub Users Search Engine</h1>
 				  </header>
           <form className={'row'} onSubmit={event => this.onSubmit(event)}>
